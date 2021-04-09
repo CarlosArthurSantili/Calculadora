@@ -1,0 +1,7 @@
+C:\Users\Carlos\source\repos\Calculadora\CalculadoraConsoleApp\bin\Debug\CalculadoraConsoleApp.exe.config
+C:\Users\Carlos\source\repos\Calculadora\CalculadoraConsoleApp\bin\Debug\CalculadoraConsoleApp.exe
+C:\Users\Carlos\source\repos\Calculadora\CalculadoraConsoleApp\bin\Debug\CalculadoraConsoleApp.pdb
+C:\Users\Carlos\source\repos\Calculadora\CalculadoraConsoleApp\obj\Debug\CalculadoraConsoleApp.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\Calculadora\CalculadoraConsoleApp\obj\Debug\CalculadoraConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Calculadora\CalculadoraConsoleApp\obj\Debug\CalculadoraConsoleApp.exe
+C:\Users\Carlos\source\repos\Calculadora\CalculadoraConsoleApp\obj\Debug\CalculadoraConsoleApp.pdb
